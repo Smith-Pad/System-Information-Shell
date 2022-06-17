@@ -1,6 +1,6 @@
 <!--
 #############################################################################
-##		index.php
+##		about.php
 #############################################################################
 --> 
 
@@ -10,13 +10,21 @@
 <div class="FOIL-Font-Styles--sans-serif">
 
 <div class="FOIL-Navigation-Bar">
-<h1> System Information </h1> 
+
+<h1> 
+	About System Information 
+</h1> 
+
 </div>
 
 <div class="FOIL-Layout">
-<a href="about.php" class="FOIL-button">About</a>
-</div>
 
+<h1> 
+	System Information is a tool that allows you to view 
+	information about your system
+</h1> 
+
+</div>
 
 
 
