@@ -11,9 +11,10 @@
 
 <div class="FOIL-Navigation-Bar">
 
-<h1> 
-	About System Information 
-</h1> 
+<h1> About System Information </h1> 
+
+<a href="index.php" class="FOIL-button color-snake-sunset-color-five">back</a>
+
 
 </div>
 
